@@ -1,0 +1,440 @@
+[
+  {
+    "technique_id": 0,
+    "technique_type": "Unknown Technique",
+    "material_type": "Unknown Support",
+    "raw_description": "Unknown/Unspecified"
+  },
+  {
+    "technique_id": 1,
+    "technique_type": "Tempera",
+    "material_type": "Wood Panel",
+    "raw_description": "(a) tempera and gold on wood; (b) gold and enamel studded with jewels"
+  },
+  {
+    "technique_id": 2,
+    "technique_type": "Watercolor",
+    "material_type": "Paper/Cardboard",
+    "raw_description": "48 watercolor (acrylic wash) portraits on Saunders Waterford watercolor paper"
+  },
+  {
+    "technique_id": 3,
+    "technique_type": "Ink",
+    "material_type": "Paper/Cardboard",
+    "raw_description": "A pair of hanging scrolls; ink and color on paper"
+  },
+  {
+    "technique_id": 4,
+    "technique_type": "Ink",
+    "material_type": "Silk",
+    "raw_description": "Accordion-style album of 10 painted leaves; ink and color on silk"
+  },
+  {
+    "technique_id": 5,
+    "technique_type": "Acrylic",
+    "material_type": "Canvas",
+    "raw_description": "Acoustic diffuser and acrylic on canvas"
+  },
+  {
+    "technique_id": 6,
+    "technique_type": "Acrylic",
+    "material_type": "Unknown Support",
+    "raw_description": "Acrylic and acrylic medium on cotton duck"
+  },
+  {
+    "technique_id": 7,
+    "technique_type": "Acrylic",
+    "material_type": "Paper/Cardboard",
+    "raw_description": "Acrylic and crayon on paper"
+  },
+  {
+    "technique_id": 8,
+    "technique_type": "Oil",
+    "material_type": "Masonite",
+    "raw_description": "Acrylic and oil on Masonite"
+  },
+  {
+    "technique_id": 9,
+    "technique_type": "Oil",
+    "material_type": "Canvas",
+    "raw_description": "Acrylic and oil on canvas"
+  },
+  {
+    "technique_id": 10,
+    "technique_type": "Acrylic",
+    "material_type": "Wood Panel",
+    "raw_description": "Acrylic and rope on wood"
+  },
+  {
+    "technique_id": 11,
+    "technique_type": "Acrylic",
+    "material_type": "Masonite",
+    "raw_description": "Acrylic on Masonite"
+  },
+  {
+    "technique_id": 12,
+    "technique_type": "Acrylic",
+    "material_type": "Copper",
+    "raw_description": "Acrylic on Plexiglas in an artist’s frame"
+  },
+  {
+    "technique_id": 13,
+    "technique_type": "Acrylic",
+    "material_type": "Glass",
+    "raw_description": "Acrylic on Plexiglass"
+  },
+  {
+    "technique_id": 14,
+    "technique_type": "Acrylic",
+    "material_type": "Metal",
+    "raw_description": "Acrylic on metal"
+  },
+  {
+    "technique_id": 15,
+    "technique_type": "Oil",
+    "material_type": "Unknown Support",
+    "raw_description": "Acrylic on voile"
+  },
+  {
+    "technique_id": 16,
+    "technique_type": "Oil",
+    "material_type": "Paper/Cardboard",
+    "raw_description": "Acrylic paint and oil pastel with oiled charcoal and ink over an ink and graphite underdrawing on paper"
+  },
+  {
+    "technique_id": 17,
+    "technique_type": "Oil",
+    "material_type": "Wood Panel",
+    "raw_description": "Acrylic, magna, oil, enamel on three panels"
+  },
+  {
+    "technique_id": 18,
+    "technique_type": "Unknown Technique",
+    "material_type": "Canvas",
+    "raw_description": "Acylic and graphite on linen"
+  },
+  {
+    "technique_id": 19,
+    "technique_type": "Unknown Technique",
+    "material_type": "Paper/Cardboard",
+    "raw_description": "Album leaf; lacquer on paper"
+  },
+  {
+    "technique_id": 20,
+    "technique_type": "Oil",
+    "material_type": "Glass",
+    "raw_description": "Albumen silver print from glass negative with inset oil painting"
+  },
+  {
+    "technique_id": 21,
+    "technique_type": "Unknown Technique",
+    "material_type": "Unknown Support",
+    "raw_description": "Auto lacquer on aluminum"
+  },
+  {
+    "technique_id": 22,
+    "technique_type": "Tempera",
+    "material_type": "Paper/Cardboard",
+    "raw_description": "Black ink, gum tempera, and tin paint, with graphite underdrawing on paper"
+  },
+  {
+    "technique_id": 23,
+    "technique_type": "Gouache",
+    "material_type": "Paper/Cardboard",
+    "raw_description": "Book printed on Normandy vellum with one gouache drawing on cream laid paper"
+  },
+  {
+    "technique_id": 24,
+    "technique_type": "Unknown Technique",
+    "material_type": "Wood Panel",
+    "raw_description": "Book, concrete, wood, and artificial leaves"
+  },
+  {
+    "technique_id": 25,
+    "technique_type": "Ink",
+    "material_type": "Canvas",
+    "raw_description": "Brown inks on tan-color sized canvas"
+  },
+  {
+    "technique_id": 26,
+    "technique_type": "Ink",
+    "material_type": "Wood Panel",
+    "raw_description": "Calligraphy in hangul script; Six-panel folding screen, ink on on paper"
+  },
+  {
+    "technique_id": 27,
+    "technique_type": "Tempera",
+    "material_type": "Canvas",
+    "raw_description": "Casein tempera on canvas"
+  },
+  {
+    "technique_id": 28,
+    "technique_type": "Mixed Media",
+    "material_type": "Paper/Cardboard",
+    "raw_description": "Collage, mixed media on paper"
+  },
+  {
+    "technique_id": 29,
+    "technique_type": "Ink",
+    "material_type": "Unknown Support",
+    "raw_description": "Colored ink drawing"
+  },
+  {
+    "technique_id": 30,
+    "technique_type": "Watercolor",
+    "material_type": "Canvas",
+    "raw_description": "Conté crayon, wax crayon, gouache, watercolor, cut-and-pasted newspaper, printed wallpaper (two types), white, brown, and tan wove cut papers; adhered overall onto newspaper, mounted to primed canvas"
+  },
+  {
+    "technique_id": 31,
+    "technique_type": "Oil",
+    "material_type": "Metal",
+    "raw_description": "Corroded metal, monkey fur, tin foil, and cloth on metal"
+  },
+  {
+    "technique_id": 32,
+    "technique_type": "Watercolor",
+    "material_type": "Unknown Support",
+    "raw_description": "Cow dung background and white watercolor on traditionally treated cloth"
+  },
+  {
+    "technique_id": 33,
+    "technique_type": "Distemper",
+    "material_type": "Canvas",
+    "raw_description": "Distemper on canvas"
+  },
+  {
+    "technique_id": 34,
+    "technique_type": "Distemper",
+    "material_type": "Unknown Support",
+    "raw_description": "Distemper on cotton"
+  },
+  {
+    "technique_id": 35,
+    "technique_type": "Tempera",
+    "material_type": "Masonite",
+    "raw_description": "Egg tempera on Masonite"
+  },
+  {
+    "technique_id": 36,
+    "technique_type": "Tempera",
+    "material_type": "Metal",
+    "raw_description": "Egg tempera on metal"
+  },
+  {
+    "technique_id": 37,
+    "technique_type": "Unknown Technique",
+    "material_type": "Masonite",
+    "raw_description": "Enamel on Masonite"
+  },
+  {
+    "technique_id": 38,
+    "technique_type": "Encaustic",
+    "material_type": "Paper/Cardboard",
+    "raw_description": "Encaustic and collage on paper on board"
+  },
+  {
+    "technique_id": 39,
+    "technique_type": "Encaustic",
+    "material_type": "Masonite",
+    "raw_description": "Encaustic and ink on Masonite"
+  },
+  {
+    "technique_id": 40,
+    "technique_type": "Encaustic",
+    "material_type": "Canvas",
+    "raw_description": "Encaustic and newspaper on canvas"
+  },
+  {
+    "technique_id": 41,
+    "technique_type": "Encaustic",
+    "material_type": "Wood Panel",
+    "raw_description": "Encaustic on limewood"
+  },
+  {
+    "technique_id": 42,
+    "technique_type": "Unknown Technique",
+    "material_type": "Glass",
+    "raw_description": "Epoxy on fiberglass"
+  },
+  {
+    "technique_id": 43,
+    "technique_type": "Ink",
+    "material_type": "Ivory",
+    "raw_description": "Fan (ovoid); ink and colors on silk, bamboo-style handle, ivory tip"
+  },
+  {
+    "technique_id": 44,
+    "technique_type": "Unknown Technique",
+    "material_type": "Ivory",
+    "raw_description": "Fan; colors on silk, with lacquer rim and\nivory handle"
+  },
+  {
+    "technique_id": 45,
+    "technique_type": "Ink",
+    "material_type": "Copper",
+    "raw_description": "Framed banner; ink and colors on silk"
+  },
+  {
+    "technique_id": 46,
+    "technique_type": "Fresco",
+    "material_type": "Unknown Support",
+    "raw_description": "Fresco"
+  },
+  {
+    "technique_id": 47,
+    "technique_type": "Fresco",
+    "material_type": "Wood Panel",
+    "raw_description": "Fresco on wood panel"
+  },
+  {
+    "technique_id": 48,
+    "technique_type": "Fresco",
+    "material_type": "Canvas",
+    "raw_description": "Fresco transferred to canvas"
+  },
+  {
+    "technique_id": 49,
+    "technique_type": "Oil",
+    "material_type": "Ivory",
+    "raw_description": "Gold, glass, foil; ivory"
+  },
+  {
+    "technique_id": 50,
+    "technique_type": "Gouache",
+    "material_type": "Canvas",
+    "raw_description": "Gouache on Japanese paper on canvas"
+  },
+  {
+    "technique_id": 51,
+    "technique_type": "Gouache",
+    "material_type": "Masonite",
+    "raw_description": "Gouache on Masonite"
+  },
+  {
+    "technique_id": 52,
+    "technique_type": "Gouache",
+    "material_type": "Silk",
+    "raw_description": "Gouache on silk"
+  },
+  {
+    "technique_id": 53,
+    "technique_type": "Gouache",
+    "material_type": "Wood Panel",
+    "raw_description": "Gouache on wood panel"
+  },
+  {
+    "technique_id": 54,
+    "technique_type": "Tempera",
+    "material_type": "Unknown Support",
+    "raw_description": "Gum tempera and gold on cotton"
+  },
+  {
+    "technique_id": 55,
+    "technique_type": "Unknown Technique",
+    "material_type": "Silk",
+    "raw_description": "Hanging scroll; color on silk"
+  },
+  {
+    "technique_id": 56,
+    "technique_type": "Oil",
+    "material_type": "Silk",
+    "raw_description": "Hanging scroll; ink, color, gold, and gold foil on silk"
+  },
+  {
+    "technique_id": 57,
+    "technique_type": "Watercolor",
+    "material_type": "Wood Panel",
+    "raw_description": "Ink and watercolor on paper (Woodblock print: 1960.762)"
+  },
+  {
+    "technique_id": 58,
+    "technique_type": "Distemper",
+    "material_type": "Wood Panel",
+    "raw_description": "Innovation Blue pigment, distemper, casein on wood panel"
+  },
+  {
+    "technique_id": 59,
+    "technique_type": "Unknown Technique",
+    "material_type": "Copper",
+    "raw_description": "Matted drawing reversed in metal frame"
+  },
+  {
+    "technique_id": 60,
+    "technique_type": "Mixed Media",
+    "material_type": "Canvas",
+    "raw_description": "Mixed media and collage on canvas"
+  },
+  {
+    "technique_id": 61,
+    "technique_type": "Mixed Media",
+    "material_type": "Wood Panel",
+    "raw_description": "Mixed media on panel"
+  },
+  {
+    "technique_id": 62,
+    "technique_type": "Oil",
+    "material_type": "Copper",
+    "raw_description": "Oil and gold leaf on copper"
+  },
+  {
+    "technique_id": 63,
+    "technique_type": "Watercolor",
+    "material_type": "Glass",
+    "raw_description": "Opaque watercolor on glass"
+  },
+  {
+    "technique_id": 64,
+    "technique_type": "Watercolor",
+    "material_type": "Silk",
+    "raw_description": "Opaque watercolor on silk"
+  },
+  {
+    "technique_id": 65,
+    "technique_type": "Unknown Technique",
+    "material_type": "Metal",
+    "raw_description": "Paint and graphite on metal"
+  },
+  {
+    "technique_id": 66,
+    "technique_type": "Gouache",
+    "material_type": "Unknown Support",
+    "raw_description": "Terracotta, gouache"
+  },
+  {
+    "technique_id": 67,
+    "technique_type": "Watercolor",
+    "material_type": "Ivory",
+    "raw_description": "Watercolor and gouache on ivory"
+  },
+  {
+    "technique_id": 68,
+    "technique_type": "Watercolor",
+    "material_type": "Copper",
+    "raw_description": "Watercolor on ivory in ebonized frame with acorn hanger"
+  },
+  {
+    "technique_id": 69,
+    "technique_type": "Acrylic",
+    "material_type": "Silk",
+    "raw_description": "ink, color, and acrylic on silk"
+  },
+  {
+    "technique_id": 70,
+    "technique_type": "Mixed Media",
+    "material_type": "Unknown Support",
+    "raw_description": "mixed media"
+  },
+  {
+    "technique_id": 71,
+    "technique_type": "Tempera",
+    "material_type": "Silk",
+    "raw_description": "thangka; gum tempera, ink, and gold on sized cotton; mount: silk"
+  },
+  {
+    "technique_id": 72,
+    "technique_type": "Watercolor",
+    "material_type": "Masonite",
+    "raw_description": "watercolor on masonite"
+  }
+]
